@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 85%;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+h1 {
+    color: steelblue;
+    margin-bottom: 50em;
+    font-size: 140%;
+}
+br {
+    clear: both;
+}
+.textUpdate {
+    cursor: pointer;
+    color : #15B392;
+}
+.textUpdate :hover {
+    cursor: pointer;
+}
+
+.addCart :hover {
+    color: red;
+    cursor: pointer;
+}
+.btn {
+    width: 150px;
+
+}
